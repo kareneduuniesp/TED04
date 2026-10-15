@@ -41,7 +41,7 @@ Desenvolver uma aplicação web criativa, colocando em prática conhecimentos de
 
 ## Inspiração e créditos
 
-O visual e a ideia do Smilee foram inspirados no **cute-photobooth** (JiggleDuo Photobooth), criado por **lovesulei**:
+O visual e a ideia do Little Memories foram inspirados no **cute-photobooth** (JiggleDuo Photobooth), criado por **lovesulei**:
 
 🔗 **https://github.com/lovesulei/cute-photobooth**
 
